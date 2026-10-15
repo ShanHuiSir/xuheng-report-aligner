@@ -1,0 +1,87 @@
+[
+  {
+    "file": "_tcl_data/encoding/big5.enc",
+    "sha256": "ad1ed201b69855bfd353bf969dfc55576da35a963abf1bf7fc6d8b5142a61a61",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/cns11643.enc",
+    "sha256": "8924545cc92584169138aadb64683c07bbf846a57014c2e668d23b63f43f3610",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/cp932.enc",
+    "sha256": "6d1b512110beaf2cd1296ac878f51d567848ab4a1ced4f18c72806bb136b3d23",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/cp936.enc",
+    "sha256": "b6ec2be0504ca62b9d1b6857f6baa13ffac5a567d4432f4eab98adc830f5d9c3",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/cp949.enc",
+    "sha256": "477f8b79b67f4a22c963ee65b9b387dbd8e4b8f62d800b0a51d2276580c6adbb",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/cp950.enc",
+    "sha256": "f80e05533d1a1494c32f9412e9ad2d9c11faf9ae0668a6f9d1fa5ceedc6870e2",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/euc-cn.enc",
+    "sha256": "1700af47dc012a48cec89cf1dfae6d1d0d2f40ed731eff6ca55296a055a11c00",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/euc-jp.enc",
+    "sha256": "a3c916ba16bcac9faa5a1ccc62aca61452d581cd8ba3ee07ec39122c697274c9",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/euc-kr.enc",
+    "sha256": "5448643398685456a11cbb93af2321f70b8659e2fff3ccc534b4d53bd2f38c89",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/gb12345.enc",
+    "sha256": "b4894aedd2d5b5ae54b6d2840f7c89a88e9308efd288f179e65936e172ef4b0d",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/gb2312-raw.enc",
+    "sha256": "c445e4c9f676ae997d2dda2bbc107b746f3547d85f39479951c56f46275ee355",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/gb2312.enc",
+    "sha256": "1700af47dc012a48cec89cf1dfae6d1d0d2f40ed731eff6ca55296a055a11c00",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/jis0208.enc",
+    "sha256": "f6b1c6ac5f5fc4e990a7a1aac16a406012040936431befe7d2b6cd1da9e422c4",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/ksc5601.enc",
+    "sha256": "9b27fe7e7054f36e279993f19e52e18ac03360d117ae80c42b4e984a97c590aa",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/macJapan.enc",
+    "sha256": "47007d9ebf4d34c6ce3599e50afc7c1cf8129b88994de2c2a857c09003f9cd2b",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "_tcl_data/encoding/shiftjis.enc",
+    "sha256": "4a15ed210126bcdae32543f60eb1a0677f985f32d49fce923b9fae8c5bcf3da4",
+    "reason": "Tcl character encoding table: hexadecimal mappings resemble phone patterns; byte-equal to installed Tcl runtime"
+  },
+  {
+    "file": "PIL/_avif.cp312-win_amd64.pyd",
+    "sha256": "427d58d329d56ff93a40bd536a23ba393a96c2a1851a2367907b7b4ad4487ff3",
+    "reason": "Pillow AVIF binary: coincidental digit sequence; byte-equal to installed Pillow library"
+  }
+]

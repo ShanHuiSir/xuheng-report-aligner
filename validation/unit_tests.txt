@@ -1,0 +1,14 @@
+test_corrupt_file (test_core.AlignmentTests.test_corrupt_file) ... ok
+test_direction_and_stability (test_core.AlignmentTests.test_direction_and_stability) ... ok
+test_empty_and_unicode (test_core.AlignmentTests.test_empty_and_unicode) ... ok
+test_fixed_policy (test_core.AlignmentTests.test_fixed_policy) ... ok
+test_headerless_and_footer (test_core.AlignmentTests.test_headerless_and_footer) ... ok
+test_paste_formula_as_text (test_core.AlignmentTests.test_paste_formula_as_text) ... ok
+test_reference_overwrite_and_formula_guard (test_core.AlignmentTests.test_reference_overwrite_and_formula_guard) ... ok
+test_style_and_integrity (test_core.AlignmentTests.test_style_and_integrity) ... ok
+test_xls_export (test_core.AlignmentTests.test_xls_export) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.365s
+
+OK

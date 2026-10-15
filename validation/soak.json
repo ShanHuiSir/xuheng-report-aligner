@@ -1,0 +1,213 @@
+{
+  "requested_seconds": 180,
+  "actual_seconds": 180.05,
+  "iterations": 3477,
+  "errors": 0,
+  "checkpoints": [
+    {
+      "iteration": 100,
+      "elapsed_s": 5.67,
+      "current_bytes": 123527,
+      "peak_bytes": 569204
+    },
+    {
+      "iteration": 200,
+      "elapsed_s": 10.62,
+      "current_bytes": 561753,
+      "peak_bytes": 1014764
+    },
+    {
+      "iteration": 300,
+      "elapsed_s": 15.66,
+      "current_bytes": 573638,
+      "peak_bytes": 1026870
+    },
+    {
+      "iteration": 400,
+      "elapsed_s": 21.19,
+      "current_bytes": 581252,
+      "peak_bytes": 1034600
+    },
+    {
+      "iteration": 500,
+      "elapsed_s": 28.11,
+      "current_bytes": 587618,
+      "peak_bytes": 1040925
+    },
+    {
+      "iteration": 600,
+      "elapsed_s": 33.16,
+      "current_bytes": 592450,
+      "peak_bytes": 1046085
+    },
+    {
+      "iteration": 700,
+      "elapsed_s": 38.62,
+      "current_bytes": 596073,
+      "peak_bytes": 1049802
+    },
+    {
+      "iteration": 800,
+      "elapsed_s": 43.0,
+      "current_bytes": 598249,
+      "peak_bytes": 1051793
+    },
+    {
+      "iteration": 900,
+      "elapsed_s": 48.45,
+      "current_bytes": 602129,
+      "peak_bytes": 1055748
+    },
+    {
+      "iteration": 1000,
+      "elapsed_s": 53.03,
+      "current_bytes": 604700,
+      "peak_bytes": 1058269
+    },
+    {
+      "iteration": 1100,
+      "elapsed_s": 57.67,
+      "current_bytes": 608043,
+      "peak_bytes": 1061988
+    },
+    {
+      "iteration": 1200,
+      "elapsed_s": 62.0,
+      "current_bytes": 609617,
+      "peak_bytes": 1063452
+    },
+    {
+      "iteration": 1300,
+      "elapsed_s": 66.95,
+      "current_bytes": 611054,
+      "peak_bytes": 1064921
+    },
+    {
+      "iteration": 1400,
+      "elapsed_s": 71.39,
+      "current_bytes": 611513,
+      "peak_bytes": 1065619
+    },
+    {
+      "iteration": 1500,
+      "elapsed_s": 76.25,
+      "current_bytes": 612233,
+      "peak_bytes": 1066128
+    },
+    {
+      "iteration": 1600,
+      "elapsed_s": 80.58,
+      "current_bytes": 612915,
+      "peak_bytes": 1066817
+    },
+    {
+      "iteration": 1700,
+      "elapsed_s": 85.06,
+      "current_bytes": 613364,
+      "peak_bytes": 1067368
+    },
+    {
+      "iteration": 1800,
+      "elapsed_s": 89.52,
+      "current_bytes": 613629,
+      "peak_bytes": 1067669
+    },
+    {
+      "iteration": 1900,
+      "elapsed_s": 94.44,
+      "current_bytes": 614311,
+      "peak_bytes": 1068251
+    },
+    {
+      "iteration": 2000,
+      "elapsed_s": 99.98,
+      "current_bytes": 614933,
+      "peak_bytes": 1068853
+    },
+    {
+      "iteration": 2100,
+      "elapsed_s": 105.83,
+      "current_bytes": 615703,
+      "peak_bytes": 1077505
+    },
+    {
+      "iteration": 2200,
+      "elapsed_s": 111.11,
+      "current_bytes": 615857,
+      "peak_bytes": 1077505
+    },
+    {
+      "iteration": 2300,
+      "elapsed_s": 116.22,
+      "current_bytes": 616212,
+      "peak_bytes": 1077505
+    },
+    {
+      "iteration": 2400,
+      "elapsed_s": 121.56,
+      "current_bytes": 616495,
+      "peak_bytes": 1077505
+    },
+    {
+      "iteration": 2500,
+      "elapsed_s": 126.8,
+      "current_bytes": 617072,
+      "peak_bytes": 1077505
+    },
+    {
+      "iteration": 2600,
+      "elapsed_s": 132.55,
+      "current_bytes": 617454,
+      "peak_bytes": 1077505
+    },
+    {
+      "iteration": 2700,
+      "elapsed_s": 137.84,
+      "current_bytes": 617974,
+      "peak_bytes": 1077505
+    },
+    {
+      "iteration": 2800,
+      "elapsed_s": 142.7,
+      "current_bytes": 618210,
+      "peak_bytes": 1077505
+    },
+    {
+      "iteration": 2900,
+      "elapsed_s": 147.86,
+      "current_bytes": 618553,
+      "peak_bytes": 1077505
+    },
+    {
+      "iteration": 3000,
+      "elapsed_s": 154.28,
+      "current_bytes": 619097,
+      "peak_bytes": 1086910
+    },
+    {
+      "iteration": 3100,
+      "elapsed_s": 159.95,
+      "current_bytes": 619459,
+      "peak_bytes": 1086910
+    },
+    {
+      "iteration": 3200,
+      "elapsed_s": 165.48,
+      "current_bytes": 619918,
+      "peak_bytes": 1086910
+    },
+    {
+      "iteration": 3300,
+      "elapsed_s": 170.56,
+      "current_bytes": 620158,
+      "peak_bytes": 1086910
+    },
+    {
+      "iteration": 3400,
+      "elapsed_s": 176.27,
+      "current_bytes": 620863,
+      "peak_bytes": 1086910
+    }
+  ],
+  "scope": "sample import-match-export loop; no 72h claim unless actual_seconds>=259200"
+}

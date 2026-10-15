@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-15",
+  "python": "3.12.14",
+  "source_sha256": {
+    "aligner\\core.py": "f8bc264798b32c9560387a9a15b2adffaf926cdaa897640eace0d1525869d409",
+    "aligner\\export.py": "a6fc2aee892e6eee59b76b2fcccea6c44cc579e5df5709911df5bdc63087334c",
+    "aligner\\gui.py": "d5b43c0f23ecb1dae9f4ca90273cae1534d956298b21c49321f494994b2c665c",
+    "aligner\\__init__.py": "874c9948d917f0b67d5d33d7d38e6aead14ce45f50b552450a49e4936ce07c44",
+    "main.py": "2e45c49db14619009a9c0b592ee348d566e7e890719ee6696418fb1f0ca2b2f9"
+  },
+  "windows_exe_sha256": "dfc11e8ac37c3eb68b37a8acba6aa0dd4bebd82232900935b7bc37b169ded94c",
+  "os": "Windows-11-10.0.26200-SP0",
+  "cpu": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+  "memory_gib": 15.83
+}

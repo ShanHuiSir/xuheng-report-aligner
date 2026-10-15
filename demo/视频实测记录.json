@@ -1,0 +1,69 @@
+{
+  "version": "1.0.0",
+  "source": "real Windows application screen capture, 15 fps; no fabricated UI or result frames",
+  "duration_s": 92.0,
+  "chapters": [
+    {
+      "chapter": "业务问题",
+      "source_start": 0,
+      "source_end": 21.703355312347412,
+      "output_start": 0,
+      "output_duration": 14.76,
+      "speed_factor": 0.6801,
+      "tts_voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "chapter": "输入资料",
+      "source_start": 21.703355312347412,
+      "source_end": 41.72755789756775,
+      "output_start": 14.76,
+      "output_duration": 14.54,
+      "speed_factor": 0.7261,
+      "tts_voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "chapter": "参考顺序",
+      "source_start": 41.72755789756775,
+      "source_end": 56.17920970916748,
+      "output_start": 29.3,
+      "output_duration": 13.7,
+      "speed_factor": 0.948,
+      "tts_voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "chapter": "运行处理",
+      "source_start": 56.17920970916748,
+      "source_end": 68.08864235877991,
+      "output_start": 43.0,
+      "output_duration": 14.93,
+      "speed_factor": 1.2536,
+      "tts_voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "chapter": "核对结果",
+      "source_start": 68.08864235877991,
+      "source_end": 80.68038415908813,
+      "output_start": 57.93,
+      "output_duration": 17.16,
+      "speed_factor": 1.3628,
+      "tts_voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "chapter": "导出成果",
+      "source_start": 80.68038415908813,
+      "source_end": 177.6591455936432,
+      "output_start": 75.09,
+      "output_duration": 16.8,
+      "speed_factor": 0.1732,
+      "tts_voice": "zh-CN-XiaoxiaoNeural"
+    }
+  ],
+  "actual_result": {
+    "total": 8,
+    "matched": 7,
+    "unmatched": 1,
+    "ambiguous": 1
+  },
+  "audio": "Chinese neural voice; only authored narration sent to TTS; no drawing files or private data transmitted",
+  "subtitles": "burned in and editable SRT; sentence timestamps from TTS metadata"
+}

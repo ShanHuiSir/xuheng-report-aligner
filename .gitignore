@@ -1,0 +1,15 @@
+.private/
+delivery/
+build/
+dist/
+*.spec
+__pycache__/
+.venv/
+.env
+*.log
+node_modules/
+qa/
+demo/raw/
+output/
+Windows/
+*.tmp

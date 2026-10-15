@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "proposal": {
+    "local_pages": 5,
+    "public_pages": 5,
+    "renderer": "Installed Microsoft Word PDF export, then PyMuPDF page rendering",
+    "visual_review": "All local pages reviewed; public cover reviewed and pages 2-5 compared equal to reviewed local pages",
+    "editable_docx": true,
+    "local_participant_information": "Complete participant information retained locally",
+    "public_participant_information": "Name, organization and contact anonymized",
+    "pass": true
+  },
+  "video": {
+    "duration_seconds": 92,
+    "width": 1280,
+    "height": 980,
+    "fps": 15,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "voice": "Chinese XiaoxiaoNeural",
+    "subtitles": "Chinese hard subtitles and separate SRT/ASS",
+    "source": "Actual continuous desktop operation, edited to six narrated chapters",
+    "actual_result": {"total": 8, "matched": 7, "unmatched": 1, "ambiguous_in_matched": 1},
+    "full_decode": "Passed; see video_decode.txt",
+    "pass": true
+  }
+}

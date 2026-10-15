@@ -1,0 +1,31 @@
+{
+  "scope": "production application Python only; comments and docstrings / nonblank lines",
+  "files": [
+    {
+      "file": "aligner\\core.py",
+      "nonblank_lines": 263,
+      "comment_and_docstring_lines": 71
+    },
+    {
+      "file": "aligner\\export.py",
+      "nonblank_lines": 177,
+      "comment_and_docstring_lines": 56
+    },
+    {
+      "file": "aligner\\gui.py",
+      "nonblank_lines": 264,
+      "comment_and_docstring_lines": 56
+    },
+    {
+      "file": "aligner\\__init__.py",
+      "nonblank_lines": 2,
+      "comment_and_docstring_lines": 1
+    },
+    {
+      "file": "main.py",
+      "nonblank_lines": 36,
+      "comment_and_docstring_lines": 11
+    }
+  ],
+  "ratio": 0.2628
+}

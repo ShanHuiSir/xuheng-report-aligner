@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "source_zip": {
+    "crc": "pass",
+    "tracked_source_contents": "byte-equal to current source files",
+    "windows_executable": "included; SHA-256 equals build_manifest.json",
+    "production_sources": "SHA-256 equals build_manifest.json",
+    "extracted_source_smoke": "actual CLI import, align and export passed with bundled simulated samples"
+  },
+  "public_privacy": {
+    "targets": ["complete source ZIP including Windows runtime", "final MP4", "public DOCX"],
+    "recursive_zip_ooxml_scan": "pass",
+    "api_credential_patterns": "no findings",
+    "participant_identity_utf8_and_utf16": "no findings",
+    "vendor_phone_pattern_false_positives": 17,
+    "vendor_review": "Each matching Tcl encoding table or Pillow AVIF binary verified byte-equal to its installed dependency; exact SHA-256 allowlist only, credential checks never suppressed",
+    "private_local_docx": "excluded from public artifacts"
+  },
+  "public_download_verification": "Release SHA256SUMS.txt is the reference for checking the final uploaded assets; archive cannot contain its own hash"
+}

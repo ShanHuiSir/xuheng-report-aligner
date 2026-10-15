@@ -1,0 +1,95 @@
+{
+  "version": "1.0.0",
+  "policy": "tail",
+  "reference_sheet": "模拟业务数据",
+  "source_sheet": "模拟业务数据",
+  "reference_column": 1,
+  "source_column": 2,
+  "reference_header": 2,
+  "source_header": 2,
+  "total": 8,
+  "matched": 7,
+  "unmatched": 1,
+  "ambiguous": 1,
+  "rows": [
+    {
+      "original_row": 6,
+      "key": "M-003",
+      "reference_rows": [
+        3
+      ],
+      "rank": 3,
+      "status": "已匹配",
+      "output_row": 3
+    },
+    {
+      "original_row": 4,
+      "key": "M-001",
+      "reference_rows": [
+        4
+      ],
+      "rank": 4,
+      "status": "已匹配",
+      "output_row": 4
+    },
+    {
+      "original_row": 3,
+      "key": "M-002",
+      "reference_rows": [
+        5
+      ],
+      "rank": 5,
+      "status": "已匹配",
+      "output_row": 5
+    },
+    {
+      "original_row": 8,
+      "key": "M-002",
+      "reference_rows": [
+        5
+      ],
+      "rank": 5,
+      "status": "已匹配",
+      "output_row": 6
+    },
+    {
+      "original_row": 7,
+      "key": "M-004",
+      "reference_rows": [
+        6,
+        7
+      ],
+      "rank": 6,
+      "status": "多候选",
+      "output_row": 7
+    },
+    {
+      "original_row": 10,
+      "key": "M-005",
+      "reference_rows": [
+        8
+      ],
+      "rank": 8,
+      "status": "已匹配",
+      "output_row": 8
+    },
+    {
+      "original_row": 9,
+      "key": "M-006",
+      "reference_rows": [
+        9
+      ],
+      "rank": 9,
+      "status": "已匹配",
+      "output_row": 9
+    },
+    {
+      "original_row": 5,
+      "key": "M-099",
+      "reference_rows": [],
+      "rank": null,
+      "status": "未匹配",
+      "output_row": 10
+    }
+  ]
+}

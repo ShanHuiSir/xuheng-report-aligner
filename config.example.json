@@ -1,0 +1,6 @@
+{
+  "unmatched_policy": "tail",
+  "normalization": "NFKC uppercase trim outer whitespace; preserve internal characters",
+  "log_retention_days": 180,
+  "network": "disabled by design; no API key required"
+}

@@ -1,0 +1,16 @@
+{
+  "rows": 1000,
+  "repeats": 5,
+  "end_to_end_seconds": [
+    0.276696,
+    0.290898,
+    0.284114,
+    0.309311,
+    0.33716
+  ],
+  "median_seconds": 0.290898,
+  "known_expected_order_pass": true,
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.14",
+  "scope": "synthetic fixed-seed 1000 rows; includes import, recognition, match, sort, export and audit"
+}
